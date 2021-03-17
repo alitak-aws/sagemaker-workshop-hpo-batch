@@ -6,7 +6,7 @@ The first step is to deploy a CloudFormation template that will perform much of 
 
 <!-- [![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=workshop&templateURL=https://ali-sagemaker-workshop-us-west-2.s3-us-west-2.amazonaws.com/SM-workshop.yml) -->
 
-[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=workshop&templateURL=https://s3-external-1.amazonaws.com/cf-templates-j7hsyuqasrp5-us-east-1/20210630xK-SM-workshop_v4.yml)
+[![Launch Stack](https://s3.amazonaws.com/cloudformation-examples/cloudformation-launch-stack.png)](https://console.aws.amazon.com/cloudformation/home#/stacks/new?stackName=workshop&templateURL=https://s3-external-1.amazonaws.com/cf-templates-j7hsyuqasrp5-us-east-1/20210769FU-SM-workshop_HPO.yml)
 
 Follow along with the screenshots below.
 
