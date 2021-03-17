@@ -15,7 +15,9 @@ Start by clicking `Next` at the bottom as shown:
 <br ><br />
 ![StackWizard](img/pic0.png)
 
-Write down a name for the stack:
+Write down a name for the stack (`names can consist only of lowercase letters, numbers, dots (.), and hyphens (-); names must begin and end with a letter or number`)
+
+Bucket names must be unique within a partition. A partition is a grouping of Regions.):
 ![StackWizard](img/pic1.png)
 <br ><br />
 
