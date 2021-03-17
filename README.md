@@ -44,7 +44,7 @@ bucket = 'aws-us-east-1-ACCNT_NO-STACK_NAME-sagemaker-workshop'
 <br ><br />
 
 
-Right-Click and open [this link](https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) in a new tab to go to your notebook instance in Sagemaker. You should see a notebook instance called `aws-STACK_NAME-sagemaker-workshop`. Click on `Open JupyterLab` as shown below:
+<!-- Right-Click and open [this link](https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/notebook-instances) in a new tab to go to your notebook instance in Sagemaker. You should see a notebook instance called `aws-STACK_NAME-sagemaker-workshop`. Click on `Open JupyterLab` as shown below:
 
 <br ><br />
 ![Sagemaker](img/pic5.png)
@@ -54,7 +54,7 @@ Right-Click and open [this link](https://console.aws.amazon.com/sagemaker/home?r
 
 <br ><br />
 ![Sagemaker](img/pic6.png)
-<br ><br />
+<br ><br /> -->
 
 
 
