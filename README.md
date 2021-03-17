@@ -57,5 +57,6 @@ bucket = 'aws-us-east-1-ACCNT_NO-STACK_NAME-sagemaker-workshop'
 <br ><br /> -->
 
 
-
-
+## Cleaning out
+Before deleting the stack, navigate to S3 from the console and select the bucket you created and select `Empty` button to delete the contents of the bucket. 
+At the end of the workshop, navigate to CloudFormation through the console and delete the stack that you created. 
